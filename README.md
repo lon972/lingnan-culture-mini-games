@@ -4,6 +4,8 @@
 
 ## 立即试玩
 
+在线打开：[岭南游园会试玩页](https://lon972.github.io/lingnan-culture-mini-games/)。
+
 直接打开 [`index.html`](index.html)，或在项目目录运行：
 
 ```bash
